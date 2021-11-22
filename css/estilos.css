@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+* {
+font-family: Montserrat;
+}
 p{
 
 color: blue;
@@ -12,10 +17,47 @@ font-weight: bold;
 text-decoration: underline;
 text-align: center;
 }
+table {
 
+    width: 100%;
+
+}
 table,th,td {
 border: 1px solid black;
+border-collapse :collapse;
+color: black;
 }
+
+th, td {
+
+padding: 10px;
+
+}
+.celda11 {
+
+background-color: yellow;
+
+}
+
+th {
+text-align: left;
+background-color: blue;
+text-align: center;
+color: white;
+
+}
+
+.celda11 {
+
+text-align: center;
+background-color: orange;
+
+}
+
+
+
+
+
 
 
 p span {
