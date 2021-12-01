@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="../css/Act13.css" />
+</head>
+<body>
+    <fieldset class="Basic">
+    <h2><ins>Información Basica</ins></h2>
+    <form action="#" method="get">
+        <label for="fname"> Nombre </label> <br>
+        <input type="text" name="Username" maxlength="30" p> 
+        <br> 
+<br>
+        Altura en centimetro: <br>
+        <select name="Altura en centimetro" id="Altura en centimetro">
+         <option>1.60-1.65</option>
+         <option>1.70-1.75</option>
+         <option>1.75-1.80</option>
+         <option>1.80-1.85</option>
+         <option>1.85-1.90</option>
+        </select> <br> <br>
+        <label for="email"> Email </label> <br>
+        <input type="email" name="Email" id="Email"> 
+        <br> 
+        <br>
+        <label for="date"> Fecha de Nacimiento</label> <br>
+        <input type="date" name="Fecha de Nacimiento" id="Fecha de Nacimiento">
+    </fieldset>
+      <br>
+      <fieldset class="Basic1">
+      <h2><ins>Nacionalidad</ins></h2> 
+
+      <input type="radio" name="Nacionalidad" id="Española" value="h" checked="checked" >
+        <label for="Española"> Española </label> 
+
+        <input type="radio" name="Nacionalidad" id="Comunitario(UE)" value="h" checked="checked" >
+        <label for="Comunitario(UE)"> Comunitario(UE) </label> 
+
+        <input type="radio" name="Nacionalidad" id="No comunitario" value="h" checked="checked" >
+        <label for="No comunitario"> No comunitario </label> <br>
+    </fieldset>
+    <br>
+    <fieldset class="Basic2"> 
+        
+        <h2><ins>Estudios</ins></h2>
+        <select name="Estudios" id="Estudios">
+            <option>Primaria</option>
+            <option>ESO</option>
+            <option>Bachillerato</option>
+            <option>Grado Medio </option>
+            <option>Grado Superior</option> <br>
+         </select> 
+         </fieldset>
+         <br>
+         <fieldset class="Basic3"> 
+          <h2><ins>Idiomas</ins></h2>
+            
+          <input type="checkbox" name="Idiomas" id=" Catalan" value="Catalan">
+      <label for=""> Catalan</label>
+      <input type="checkbox" name="Idiomas" id="Castellano">
+      <label for=""> Castellano </label> 
+      <input type="checkbox" name="Idiomas" id="Ingles">
+      <label for=""> Ingles </label> 
+      <input type="checkbox" name="Idiomas" id="Otros">
+      <label for="">Otros </label> <br>
+    </fieldset>
+      <br>
+      <fieldset class="Basic4">
+          <br>
+      <input type="submit" value="Enviar" name="enviar">
+      <input type="reset" value="Cancelar" name="Cancelar">
+    </fieldset>
+      
+
+
+
+        </form>
+       
+        
+</body>
+</html>

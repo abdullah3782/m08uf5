@@ -1,15 +1,40 @@
-table,th,td {
-    border: 1px solid black;
-    border-collapse :collapse;
-    color: black;
-    padding: 50px;
-    text-align: center;
-
+table,
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  color: black;
+  padding: 10px;
+  text-align: center;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
-.th{
+.th {
+  text-align: justify;
+}
 
-text-align: justify;
+.Pag1 {
+  text-align: center;
+}
 
+.Pag2 {
+  text-align: center;
+}
 
+.Pag3 {
+  text-align: center;
+}
+
+.Pag4 {
+  text-align: center;
+}
+
+.tabla1 {
+  border: 2px solid black;
+  border-collapse: collapse;
+  color: black;
+  padding: 10px;
+  text-align: center;
+  background-color: red;
 }
