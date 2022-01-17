@@ -31,10 +31,31 @@ td {
 }
 
 .tabla1 {
-  border: 2px solid black;
+  border: 1px solid black;
   border-collapse: collapse;
   color: black;
   padding: 10px;
   text-align: center;
   background-color: red;
+  height: 200px;
+  width: 250px;
+}
+.Goku11 {
+  background-color: lightgreen;
+  
+}
+
+.vegetta22 {
+  background-color: lightblue;
+
+}
+
+.maestro33 {
+  background-color: salmon;
+
+}
+
+.janemba44 {
+  background-color: brown;
+
 }
