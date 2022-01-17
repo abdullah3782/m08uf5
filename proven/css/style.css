@@ -1,0 +1,53 @@
+.body {
+    margin: 0px;
+    font: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.header {
+
+background-color: #1f2a30;
+
+}
+
+
+.header h1 {
+
+    color: white;
+font-size: 24px;
+
+}
+
+.nav ul {
+
+list-style: none;
+line-height: 24px;
+
+}
+
+
+.nav {
+
+background-color: lightgray;
+width: 20%;
+
+}
+
+.nav .section {
+
+float: left;
+padding: 20%;
+box-sizing: border-box;
+
+}
+
+.footer {
+background-color: lightgray;
+text-align: center;
+}
+
+.nav li ul a {
+color: black;
+
+}

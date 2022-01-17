@@ -1,0 +1,116 @@
+.front {
+    width: 600px;
+    height: 600px;
+  }
+  
+  .front1 {
+      background: url(../img/lacasadepapel.png);
+      background-size: 600px 80px;
+      background-repeat: no-repeat;
+    width: 600px;
+    height: 80px;
+    margin-bottom: 10px;
+  }
+  
+  .front2 {
+    background: url(../img/alba.jpg);
+    background-size: 220px 80px;
+    background-repeat: no-repeat;
+    width: 220px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    margin-left: 10px;
+  }
+  
+  .front3 {
+    background: url(../img/prof.jpg);
+    background-size: 367px 260px;
+    background-repeat: no-repeat;
+    width: 367px;
+    height: 260px;
+    left: 240px;
+    position: absolute;
+  }
+  
+  .front4 {
+    background: url(../img/marsella.jpg);
+    background-size: 220px 80px;
+    background-repeat: no-repeat;
+    width: 220px;
+    height: 80px;
+    margin-top: 90px;
+    position: absolute;
+    left: 0px;
+    margin-left: 10px;
+  }
+  
+  .front5 {
+    background: url(../img/bogota.jpg);
+    background-size: 220px 80px;
+    background-repeat: no-repeat;
+    width: 220px;
+    height: 80px;
+    margin-top: 180px;
+    position: absolute;
+    left: 0px;
+    margin-left: 10px;
+  }
+  
+  .front6 {
+    background: url(../img/maserati.jpg);
+    background-size: 220px 170px;
+    background-repeat: no-repeat;
+      width: 220px;
+      height: 170px;
+      margin-top: 270px;
+      position: absolute;
+      left: 0px;
+      margin-left: 10px;
+    }
+  
+    .front7 {
+      background: url(../img/rio.jpg);
+    background-size: 220px 80px;
+    background-repeat: no-repeat;
+      width: 220px;
+      height: 80px;
+      margin-top: 270px;
+      position: absolute;
+      margin-left: 230px;
+      
+    }
+    .front8 {
+      background: url(../img/denver.jpg);
+    background-size: 220px 80px;
+    background-repeat: no-repeat;
+      width: 220px;
+      height: 80px;
+      margin-top: 360px;
+      position: absolute;
+      margin-left: 230px;
+      
+    }
+  
+    .front9 {
+      background: url(../img/berlin.jpg);
+    background-size: 140px 260px;
+    background-repeat: no-repeat;
+      width: 140px;
+      height: 260px;
+      margin-top: 270px;
+      position: absolute;
+      margin-left: 460px;
+    }
+  
+    .front10 {
+      background: url(../img/palermo.jpg);
+    background-size: 440px 80px;
+    background-repeat: no-repeat;
+      width: 448px;
+      height: 80px;
+      margin-top: 450px;
+      position: absolute;
+      left: 0px;
+      margin-left: 10px;
+    }

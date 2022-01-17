@@ -1,0 +1,14 @@
+#caja1 {
+float: inherit;
+background-color: blue;
+float: right;
+
+}
+
+div {
+
+width: 100px;
+height: 100px;
+float: left;
+background-color: red;
+}

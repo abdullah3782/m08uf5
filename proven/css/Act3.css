@@ -1,0 +1,97 @@
+.front {
+  width: 600px;
+  height: 600px;
+}
+
+.front1 {
+  background-color: greenyellow;
+  width: 600px;
+  height: 80px;
+  margin-bottom: 10px;
+}
+
+.front2 {
+  background-color: green;
+  width: 220px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  margin-left: 10px;
+}
+
+.front3 {
+  background-color: cyan;
+  width: 367px;
+  height: 260px;
+  left: 240px;
+  position: absolute;
+}
+
+.front4 {
+  background-color: greenyellow;
+  width: 220px;
+  height: 80px;
+  margin-top: 90px;
+  position: absolute;
+  left: 0px;
+  margin-left: 10px;
+}
+
+.front5 {
+  background-color: green;
+  width: 220px;
+  height: 80px;
+  margin-top: 180px;
+  position: absolute;
+  left: 0px;
+  margin-left: 10px;
+}
+
+.front6 {
+    background-color: black;
+    width: 220px;
+    height: 170px;
+    margin-top: 270px;
+    position: absolute;
+    left: 0px;
+    margin-left: 10px;
+  }
+
+  .front7 {
+    background-color: greenyellow;
+    width: 220px;
+    height: 80px;
+    margin-top: 270px;
+    position: absolute;
+    margin-left: 230px;
+    
+  }
+  .front8 {
+    background-color: green;
+    width: 220px;
+    height: 80px;
+    margin-top: 360px;
+    position: absolute;
+    margin-left: 230px;
+    
+  }
+
+  .front9 {
+    background-color: greenyellow;
+    width: 140px;
+    height: 260px;
+    margin-top: 270px;
+    position: absolute;
+    margin-left: 460px;
+  }
+
+  .front10 {
+    background-color: greenyellow;
+    width: 448px;
+    height: 80px;
+    margin-top: 450px;
+    position: absolute;
+    left: 0px;
+    margin-left: 10px;
+  }
+  

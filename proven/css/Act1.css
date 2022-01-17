@@ -1,0 +1,116 @@
+.front {
+  width: 600px;
+  height: 600px;
+}
+
+.front1 {
+  background-color: green;
+  width: 66%;
+  height: 80px;
+  float: left;
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+
+.front2 {
+  background-color:lightgreen;
+  width: 32%;
+  height: 80px;
+  float: right;
+  margin-bottom: 0px;
+}
+
+.front3 {
+  background-color:black;
+  width: 32.25%;
+  height: 170px;
+  float: left;  
+ margin-top: 10px;
+ margin-right: 10px;
+ margin-bottom: 10px;
+
+}
+
+.front4 {
+  background-color:lightgreen;
+  width: 32.25%;
+  height: 170px;
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.front5 {
+  background-color:green;
+  width: 32.25%;
+  height: 80px;
+  float: right;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.front6 {
+  background-color:lightgreen;
+  width: 32.25%;
+  height: 80px;
+  float: right;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.front7 {
+  background-color:green;
+  width: 66%;
+  height: 80px;
+  float: left;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+}
+
+.front8 {
+  background-color:black;
+  width: 32.25%;
+  height: 170px;
+  float: right;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.front9 {
+  background-color:lightgreen;
+  width: 66%;
+  height: 80px;
+  float: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.front10 {
+  background-color:lightgreen;
+  width: 32%;
+  height: 80px;
+  float: left;
+  margin-bottom: 10px;
+  margin-top: 9px;
+}
+
+.front11 {
+  background-color:lightgreen;
+  width: 32%;
+  height: 80px;
+  float: right;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-top: 9px;
+}
+
+
+.front12 {
+  background-color:lightgreen;
+  width: 32%;
+  height: 80px;
+  float: right;
+  margin-bottom: 10px;
+  margin-top: 9px;
+}
