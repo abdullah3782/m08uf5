@@ -114,3 +114,57 @@
       left: 0px;
       margin-left: 10px;
     }
+    .front1:hover{
+      opacity: 25%;
+      border: 2px solid red;
+      cursor: pointer;
+    }
+    .front2:hover{
+      opacity: 25%;
+      border: 2px solid cyan;
+      cursor: pointer;
+    }
+
+    .front3:hover{
+      opacity: 25%;
+      border: 2px solid gray;
+      cursor: pointer;
+    }
+
+    .front4:hover{
+      opacity: 25%;
+      border: 2px solid lightgreen;
+      cursor: pointer;
+    }
+    .front5:hover{
+      opacity: 25%;
+      border: 1px solid blue;
+      cursor: pointer;
+    }
+
+    .front6:hover{
+      opacity: 25%;
+      border: 2px solid lightblue;
+      cursor: pointer;
+    }
+
+    .front7:hover{
+      opacity: 25%;
+      border: 2px solid orange;
+      cursor: pointer;
+    }
+    .front8:hover{
+      opacity: 25%;
+      border: 2px solid purple;
+      cursor: pointer;
+    }
+    .front9:hover{
+      opacity: 25%;
+      border: 2px solid brown;
+      cursor: pointer;
+    }
+    .front10:hover{
+      opacity: 25%;
+      border: 2px solid pink;
+      cursor: pointer;
+    }
