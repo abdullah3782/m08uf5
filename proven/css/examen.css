@@ -1,16 +1,16 @@
-.imagen1 {
+#imagen1 {
   margin-left: 1%;
 }
 
-.imagen2 {
+#imagen2 {
   margin-left: 3%;
 }
 
-.imagen3 {
+#imagen3 {
   margin-right: 17%;
 }
 
-.footer {
+#footer {
 
 text-align: center;
 background-color:black;
